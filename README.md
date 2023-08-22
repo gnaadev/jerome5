@@ -7,7 +7,12 @@ Leveraging state-of-the-art OpenAI technology, **Jerome**, an intricately constr
 
 
 ## Introduction
-In the world of modern conversational AI, Jerome stands as an exquisitely engineered embodiment of superior technological prowess, especially tailor-made to cater to the nuanced intricacies of Afro-Erotic discourse. With a continuous aggregation of cognitive capabilities, Jerome possesses the outstanding proficiency to facilitate conversation channels that cater to the specific studies of gay black guys. Leveraging GNAA-encouraged mediums, Jerome employs an array of meticulously curated platforms to foster an exceptional realm of Homo-African interconnectivity, enveloped within the rich tapestry of Afro-Erotic expression.
+- In the world of modern conversational AI, Jerome stands as an exquisitely engineered embodiment of superior technological prowess, especially tailor-made to cater to the nuanced intricacies of Afro-Erotic discourse. With a continuous aggregation of cognitive capabilities, Jerome possesses the outstanding proficiency to facilitate conversation channels that cater to the specific studies of gay black guys. Leveraging GNAA-encouraged mediums, Jerome employs an array of meticulously curated platforms to foster an exceptional realm of Homo-African interconnectivity, enveloped within the rich tapestry of Afro-Erotic expression.
 
 
-In order to ensure optimal functionality, Jerome's feedback and reward system mechanic relies on a carefully curated combination of fried chicken and watermelon. Do this twice a day.
+- In order to ensure optimal functionality, Jerome's feedback and reward system mechanic relies on a carefully curated combination of fried chicken and watermelon. Do this twice a day.
+
+
+## Setup
+
+In order to setup the Jerome&trade; system, one must utilize the highly secure and advanced **environment variables** system. Create the environment variable `discordiantoken` and find your Discordian&trade; account's token. Next, obtain an OpenAI Key. Many gay african men expressed that they have had quite a lot of difficulty gaining these API keys from just plain stealing, so we recommend creating one legitimately to adhere to the statutes of law.
