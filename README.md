@@ -7,6 +7,7 @@ Leveraging state-of-the-art OpenAI technology, **Jerome**, an intricately constr
 
 
 ## Introduction
+> Audio text-to-speech provided in the subscripts for the aurally and sexually impaired gay niggas.
 - In the world of modern conversational AI, Jerome stands as an exquisitely engineered embodiment of superior technological prowess, especially tailor-made to cater to the nuanced intricacies of Afro-Erotic discourse. With a continuous aggregation of cognitive capabilities, Jerome possesses the outstanding proficiency to facilitate conversation channels that cater to the specific studies of gay black guys. Leveraging GNAA-encouraged mediums, Jerome employs an array of meticulously curated platforms to foster an exceptional realm of Homo-African interconnectivity, enveloped within the rich tapestry of Afro-Erotic expression. <sub><a href="https://github.com/gnaadev/jerome5/raw/main/audio%201.mp3">[a1]</a></sub>
 
 
