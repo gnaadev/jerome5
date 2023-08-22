@@ -26,7 +26,7 @@ prompt = "REMEMBER, YOU ARE TO ACT AS THE TEXT-DAVINCI-002 MODEL IN PARLANCE, SP
 
 delay = random.randint(4, 9)
 
-dt = os.environ['DISCORD_BOT_TOKEN']
+dt = os.environ['discordiantoken']
 openaiapi = os.environ['key']
 
 openai.api_key = openaiapi
@@ -107,4 +107,4 @@ async def on_message(message):
                 await asyncio.sleep(delay)
                 await message.channel.send(f"{message.author.mention} {response_text}")
 keep_alive()
-client.run(os.environ['DISCORD_BOT_TOKEN'])
+client.run(dt)
