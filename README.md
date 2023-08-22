@@ -1,5 +1,5 @@
 <p>
-<img align=left src="jerome5.svg" height=120>
+<img align=left src="jlogo.png" height=120>
   <h1>jerome <sup>v5</sup></h1>
 </p>
 
