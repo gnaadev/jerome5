@@ -19,7 +19,14 @@ Leveraging state-of-the-art OpenAI technology, **Jerome**, an intricately constr
 
 - In order to setup the Jerome&trade; system, one must utilize the highly secure and advanced **environment variables** system. Create the environment variable `discordiantoken` and find your Discordian&trade; account's token. Next, obtain an OpenAI Key and put it in the environment variable `key`. Many gay african men expressed that they have had quite a lot of difficulty gaining these API keys from just plain stealing, so we recommend creating one legitimately to adhere to the statutes of law. <sub><a href="https://github.com/gnaadev/jerome5/raw/main/audio%203.mp3">[a3]</a></sub>
 
+
 - Next, utilizing the superior gay nigga intellect to open your terminal, use the command `pip install -r requirements.txt`. Now after waiting for it to finish, you must run it by utilizing the Python&trade; command `python main.py`. <sub><a href="https://github.com/gnaadev/jerome5/raw/main/audio%204.mp3">[a4]</a></sub>
+
+
+
+## Setup - Node.js 
+> **Note**
+> In development
 
 
 
