@@ -1,5 +1,5 @@
 <p>
-<img align=left src="jerome-prolapse-logo.svg" height=115>
+<img align=left src="j5logo.png" height=115>
   <h1>jerome <sup>v5</sup></h1>
 </p>
 
