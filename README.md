@@ -25,8 +25,14 @@ Leveraging state-of-the-art OpenAI technology, **Jerome**, an intricately constr
 
 
 ## Setup - Node.js 
+
+<p align=center>
+
 > **Note**
 > In development
+
+
+</p>
 
 
 
