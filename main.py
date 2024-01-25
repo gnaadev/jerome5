@@ -97,7 +97,7 @@ async def on_message(message):
             top_p=1,
             frequency_penalty=2,
             presence_penalty=0.5,
-           # stop=["\n", "Human:", " AI:"]
+            stop=["\n", "human:", "ai:"]
         )
         response_text = response["choices"][0]["text"].lower()
         replacements = {
